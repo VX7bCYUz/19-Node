@@ -1,0 +1,1 @@
+curl localhost:3000 --data @i_data.json > o_res.txt
